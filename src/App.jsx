@@ -7,7 +7,7 @@ function App() {
   <div>
     <span className="inline-flex items-center justify-center rounded-md bg-indigo-500 p-2 shadow-lg">
       <svg
-        className="h-6 w-6 text-white"
+        className="h-6 w-6 text-blue"
         fill="none"
         viewBox="0 0 24 24"
         stroke="currentColor"
